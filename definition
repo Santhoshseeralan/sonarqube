@@ -1,0 +1,8 @@
+sonarqube is code quality check and code coverage check.
+And then apart from that best practice, valunerabilites in code, Functional error before deplyment. 
+         Typer code Analysis
+  1.oswap
+  2.sonarQube scanner
+  3.codestyle
+  4.mstest
+  5.cobrtura.....etc
